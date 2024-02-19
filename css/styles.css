@@ -1,0 +1,66 @@
+/* Google Font: Bebas Neue */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* Reset Stylesheet */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Body Styles */
+body {
+    background-color: #333333;
+}
+
+/* Header Styles */
+header {
+    background-color:black;
+    height: 75px;
+}
+
+/* Navigation Styles */
+nav p {
+    color: #68FF50;
+    padding: 2% 5%;
+    font-size: 2.5rem;
+}
+
+/* Main Styles */
+h1,
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 140px;
+}
+
+h2 {
+    font-size: 36px;
+    letter-spacing: 3px;
+}
+
+video {
+    width: 100%;
+    position: relative;
+    bottom: 211px;
+    z-index: -1;
+}
+
+.scroll-down {
+    width: 15%;
+    margin: auto;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    bottom: 350px;
+}
+
+.scroll-down p {
+    color:#68FF50;
+    padding: 5%;
+    font-size: 3rem;
+    text-align: center;
+}
