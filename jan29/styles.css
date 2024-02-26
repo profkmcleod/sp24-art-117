@@ -1,0 +1,17 @@
+/* Adobe Font: Peridot */
+@import url("https://use.typekit.net/plv6byu.css");
+
+/* Google Font: Honk */
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+h2 {
+    font-family: "peridot-pe-variable", sans-serif;
+    font-variation-settings: "ital" 0, "wdth" 100, "wght" 400;
+}
+
+.google-me {
+    font-family: 'Honk', system-ui;
+}
+
+
+
